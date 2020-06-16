@@ -19,7 +19,7 @@
 
 [SIZE="4"][color="#d80404"]''This is a user-friendly thread, all your suggestions are important to us and will be taken into consideration.."[/COLOR][/SIZE]
 
-[IMG]https://raw.githubusercontent.com/legionRom/xda_templete/master/logos/abt.pn[/IMG]
+[IMG]https://raw.githubusercontent.com/legionRom/xda_templete/master/logos/abt.png[/IMG]
 
 [SIZE="4"][color="#443972"]''LEGIONOS Is just another rom which will be concentrating on features as well as battery performance on other hand , It Is based on AOSP and features are taken from many roms and packed it here"[/COLOR][/SIZE]
 
